@@ -1,0 +1,88 @@
+header{
+    background-color: darkslategray;
+    padding: .8%;
+  
+    
+}
+.navve{
+    font-size: 18px;
+}
+.navve a:hover{
+    color: white !important;
+}
+
+
+.c_hin1 {
+    right: 73%;
+    display: grid;
+    margin-bottom: 5rem;
+    margin-left: 6%;
+}
+.c_hin1 [data-bs-target] {
+ 
+    width: 15px;
+    height: 10px;
+}
+.car_sol_prev {
+    left: 84%;
+    bottom:80%;
+}
+
+.car_sol_next {
+    right: 5%;
+    bottom: 80%;
+}
+
+.car_sol_prev, .car_sol_next {
+    top: 58px;
+
+    width: 5%;
+}
+
+.nd-bannner{
+    background-image: url(../img/bbbbg.jpg);
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 68%;
+}
+.slider{
+    color: white;
+    padding: 16%;
+    background-color: rgba(1, 2, 1, .3 );
+}
+.slider h5 {
+
+}
+.slider p{
+
+margin: 14% 0;
+}
+.slider .btt{
+    margin-bottom: 5%;
+}
+.layoutstart{
+    margin-bottom: 100px;
+}
+.myskill{
+    background-image: url(../img/bbbbg.jpg);
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.myskillimg {
+    width: 100%;
+}
+.myskillimg img{
+    width: 100%;
+    margin-top: 20%;
+}
+.progresssss{
+    padding: 100px 0;
+}
